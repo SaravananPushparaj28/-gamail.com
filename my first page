@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First Page</title>
+      <style>
+        #mobiles{
+        color : red;
+        background-color:blue;
+        }
+        .models{
+        color:yellow;
+        background-color: white;
+        }
+      </style>      
+  </head>  
+  <body>
+    <h3 id="mobiles">MOBILE BRANDS</h3>
+    <p class="models">apple</p>
+    <p class="models">sony</p>
+    <p class="models">samsung</p>
+  </body>
+</html>
